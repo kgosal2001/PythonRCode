@@ -1,2 +1,2 @@
 # Data_analytics
-SQL, pandas, ML
+Python, pandas, R, ML
