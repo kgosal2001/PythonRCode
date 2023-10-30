@@ -1,3 +1,4 @@
+PPT PRESENTATION LINK: https://docs.google.com/presentation/d/1ACaA9sWl7IPd2o_YgDKFbzHvCT3KPq6ydANXS_JOFdg/edit?usp=sharing
 Yes, here is the R script that I used (from this course).
 ### Divvy_Exercise_Full_Year_Analysis ###
  
